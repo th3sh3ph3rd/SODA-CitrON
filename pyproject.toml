@@ -30,9 +30,9 @@ example = [
 
 # Links that show in package metadata
 [project.urls]
-Homepage = "https://git-service.ait.ac.at/cdt-rtsa/mufasa/data-association"
-Repository = "https://git-service.ait.ac.at/cdt-rtsa/mufasa/data-association.git"
-Issues = "https://git-service.ait.ac.at/cdt-rtsa/mufasa/data-association/-/issues"
+Homepage = "https://github.com/th3sh3ph3rd/SODA-CitrON"
+Repository = "https://github.com/th3sh3ph3rd/SODA-CitrON.git"
+Issues = "https://github.com/th3sh3ph3rd/SODA-CitrON/issues"
 
 # Package discovery using src/ layout
 [tool.setuptools.packages.find]
